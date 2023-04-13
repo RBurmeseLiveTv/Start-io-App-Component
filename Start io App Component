@@ -1,4 +1,4 @@
-Start io App Component
+
 <activity
 android:name="com.startapp.sdk.adsbase.consent.ConsentActivity"
 android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
